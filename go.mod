@@ -1,4 +1,4 @@
-module xk6-tls-tcp
+module github.com/kagu2023/xk6-tls-tcp
 
 go 1.21.3
 
